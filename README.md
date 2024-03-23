@@ -41,7 +41,7 @@ Contributions are welcome! If you’d like to enhance the project, feel free to 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact 📬
-Have questions or feedback? Reach out to us at contact@visacardproject.com.
+Have questions or feedback? Reach out to me at konyi.tharnyiphyo@gmail.com.
 
 Feel free to customize this README to match your project’s specifics. Happy coding! 🎉👩‍💻
 

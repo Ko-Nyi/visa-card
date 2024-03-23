@@ -27,7 +27,7 @@ The Visa Card Project is a sleek and interactive web application that simulates 
 1 Enter Card Details:
 * Click on the card fields (cardholder name, card number, and expiration date) to input your data.
 - Watch the card update dynamically as you type!
-- 
+
 2 Validation:
   
 * The card number field validates the input to ensure it follows the correct format.
@@ -45,4 +45,4 @@ Have questions or feedback? Reach out to me at konyi.tharnyiphyo@gmail.com.
 
 Feel free to customize this README to match your project’s specifics. Happy coding! 🎉👩‍💻
 
-__Inspired by ByteBlocksConsultants/Visa-Consumer-Card-Controls-API and Frontend Mentor.__
+*Inspired by ByteBlocksConsultants/Visa-Consumer-Card-Controls-API and Frontend Mentor.*

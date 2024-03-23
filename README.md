@@ -43,6 +43,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact 📬
 Have questions or feedback? Reach out to me at konyi.tharnyiphyo@gmail.com.
 
-Feel free to customize this README to match your project’s specifics. Happy coding! 🎉👩‍💻
+*Thank you!*🎉👩‍💻
 
-*Inspired by ByteBlocksConsultants/Visa-Consumer-Card-Controls-API and Frontend Mentor.*

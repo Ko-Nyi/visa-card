@@ -17,7 +17,7 @@ The Visa Card Project is a sleek and interactive web application that simulates 
 ```git clone https://github.com/yourusername/Visa-Card-Project.git```
 
 2 Navigate to the Project Folder:
-```cd Visa-Card-Project```
+```cd visa-card```
 
 3 Open index.html in Your Browser:
 ```Double-click the index.html file or open it using your preferred browser.```
